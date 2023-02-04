@@ -28,9 +28,6 @@ After you're finished please remove all the comments and instructions!
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -59,10 +56,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Awesome Books] <a name="about-project"></a>
+# 📖 [Leaderboard] <a name="about-project"></a>
 
 
-**[awesome books]** is a book keeping program that tracks authors and their respective books
+**[Leaderboard]** is a javascript,html, and css project that retrieves leader baord scores from the leaderboard api
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -105,6 +102,14 @@ To get a local copy up and running, follow these steps.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+To get a local copy up and running, follow these steps.
+- Clone this repository using the its url and git using the your terminal.
+- cd into the project using the terminal.
+- RUN npm install to install the nodemofulesal.
+- After installing the node_modules, RUN npm start to fire up the project
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
