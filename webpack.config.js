@@ -1,3 +1,4 @@
+/* eslint-disable */
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
@@ -7,13 +8,13 @@ module.exports = {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'dist'),
   },
-  mode:'development',
-  devServer:{
-      static:'./dist'
+  mode: 'development',
+  devServer: {
+    static: './dist',
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template:"./src/index.html"
+      template: './src/index.html',
     }),
   ],
   output: {
